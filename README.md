@@ -11,3 +11,4 @@ The following are alive Mastodon relay list.
 - MastodonSocial.ru - https://relay.mastodonsocial.ru/inbox
 - pleroma.site - https://relay.pleroma.site/inbox
 - hama3 - https://pub-relay.hama3.net/inbox
+- Kemono Friends - https://relay.kemo.one/inbox
