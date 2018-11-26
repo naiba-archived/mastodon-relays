@@ -9,3 +9,5 @@ The following are alive Mastodon relay list.
 - Aus.Social - https://neighbours.aus.social/inbox
 - social.homunyan.com - https://relay.homunyan.com/inbox
 - MastodonSocial.ru - https://relay.mastodonsocial.ru/inbox
+- pleroma.site - https://relay.pleroma.site/inbox
+- hama3 - https://pub-relay.hama3.net/inbox
